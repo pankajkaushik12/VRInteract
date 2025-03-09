@@ -1,6 +1,6 @@
 # VR Interact
 
-This project is consists the following:
+This project consists the following:
 - **Interactive Button**: A responsive button that triggers actions when pressed.
 - **Toggle Visibility**: A button to show or hide an object in the scene.
 - **Two Animations**: Simple animations with objects (like a sphere, cube, or cylinder).
